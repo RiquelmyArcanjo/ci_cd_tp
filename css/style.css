@@ -1,0 +1,29 @@
+.col-md-3{
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+        }
+    .col-md-3 span {
+    display: inline-block;
+    height: 50%;
+}
+.desc{
+    font-size: 17px;
+    color:black;
+}
+.content{
+    border-radius:10px;
+    background-color: #e6e6e6;
+    padding: 10px;
+}
+.content2{
+    border-radius:10px;
+    background-color: #d3dde9;
+    padding: 10px;
+}
+.rodape{
+    font-size: 40px;
+}
+html {
+scroll-behavior: smooth;
+}
